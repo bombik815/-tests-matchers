@@ -1,2 +1,2 @@
 # homework-unit-test
-[![Build status](https://ci.appveyor.com/api/projects/status/6c3aqyqx2i783l03?svg=true)](https://ci.appveyor.com/project/bombik815/homework-unit-test)
+[![Build status](https://ci.appveyor.com/api/projects/status/svxsl9shtwjalvem?svg=true)](https://ci.appveyor.com/project/bombik815/tests-matchers)
